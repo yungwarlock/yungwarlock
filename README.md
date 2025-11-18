@@ -10,10 +10,21 @@ Ohayo! My name is Damian Akpan. I'm a Product Oriented Programmer. I like singin
 
 Now that's a tech stack :)
 
-You can reach me on my email: damiakpan@gmail.com.
+#### My Expertise
+My expertise are the set of frameworks and tools that help you put something in the market. Whether it is:
+- Building the business logic (Full-stack Nextjs, FastAPI and Expo)
+- Telemetry and Analytics (Sentry and Mixpanel)
+- Sourcing large datasets (PySpark and Pandas, Stagehand and Playwright)
+- Data warehouse for storing large datasets (DuckDB and BigQuery)
+- Infrastructure to host (Fly.io and Google Cloud)
+- Where to store transactional data (Neon and Upstash)
+- Using AI (Gemini, Replicate and Open Router)
+
+I'm currently exploring Keep alerting to work in Open source, although I'm looking to contribute to smaller libraries and frameworks.
 
 I'm currently actively looking for a job
 
+You can reach me on my email: damiakpan@gmail.com.
 <!--
 **yungwarlock/yungwarlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
