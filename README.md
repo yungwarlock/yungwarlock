@@ -6,7 +6,7 @@ Ohayo! My name is Damian Akpan. I'm a Product Oriented Programmer. I like singin
 - Linux as my homebase (i use mint btw)
 - VSCode, pairs really well Copilot. daisuki da yo...Copilot
 - Gemini for brainstorming a task and writing issues
-- And a nice table and a place to stand
+- A nice table and a place to stand
 
 Now that's a tech stack :)
 
