@@ -1,6 +1,4 @@
-## Ohayo!
-
-My name is Damian Akpan. I'm a Product Oriented Programmer. I like singing and watching Bandminton. Alright :)
+Ohayo! My name is Damian Akpan. I'm a Product Oriented Programmer. I like singing and watching Bandminton. Alright :)
 
 ## My Tech Stack
 - Linear for managing my work, 'cause my brain is a butterfly
