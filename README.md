@@ -10,6 +10,7 @@ Hi there! My name is Damian Akpan. I'm a Product Oriented Programmer, currently 
 #### My Expertise
 Over the years, I gained experience in fast-prototyping and full stack development of product in areas such as: 
 - Building the business logic (Full-stack [Nextjs](https://nextjs.org/), [FastAPI](https://fastapi.tiangolo.com/) and [Expo](https://expo.dev/))
+- Performance Critical logic ([Golang](http://go.dev/))
 - Telemetry and Analytics ([Sentry](https://sentry.io/welcome/) and [Mixpanel](https://mixpanel.com))
 - Sourcing large datasets ([PySpark](https://spark.apache.org/docs/latest/api/python/index.html) and [Pandas](https://pandas.pydata.org/), [Stagehand](https://docs.stagehand.dev/) and [Playwright](https://playwright.dev))
 - Data warehouse for storing large datasets ([DuckDB](https://duckdb.org/) and [BigQuery](https://cloud.google.com/bigquery))
