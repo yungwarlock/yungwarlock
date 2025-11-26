@@ -25,7 +25,7 @@ Over the years, I gained experience in fast-prototyping and full stack developme
 - [Whatsapp Framework](https://github.com/raven-consult/whatsapp-framework): A clean declarative paradigm to building AI chatbots for Whatsapp
 - [City Ride](https://github.com/raven-consult/cityride): Find ride-shares from drivers around Lagos
 - [Evently](https://github.com/yungwarlock/closera): A pre-chatgpt makeshift search engine for events around the world
-- [Storefront](https://github.com/yungwarlock/storefront): A toolkit for building Shopify-like websites on your own products
+- [Storefront](https://github.com/yungwarlock/storefront): A toolkit for building Shopify-like websites as a feature in your own products
 
 In the side, I've reading some popular js packages i've grown up with and learning how I can contribute to them.
 
