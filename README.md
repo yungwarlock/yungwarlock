@@ -20,6 +20,4 @@ Over the years, I gained experience in fast-prototyping and full stack developme
 - [Evently](https://github.com/yungwarlock/closera): A pre-chatgpt makeshift search engine for events around the world
 - [Storefront](https://github.com/yungwarlock/storefront): A toolkit for building Shopify-like websites as a feature in your own products
 
-I'm currently actively looking for a Product Engineer role at an ambitious company.
-
 You can reach me on my email: damiakpan@gmail.com.
