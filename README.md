@@ -1,12 +1,5 @@
 Hi there! My name is Damian Akpan. I'm a Product Oriented Programmer, currently based in Yaba, Lagos. I like singing and playing Bandminton.
 
-#### My Tech Stack
-- [Linear](https://linear.app) for managing my work
-- [Github](https://github.com) as my Full DX Platform
-- [Linux](http://kernel.org) (i use mint btw)
-- [VSCode](https://code.visualstudio.com/), pairs really well [Copilot](https://github.com/copilot)
-- A nice table and a place to stand
-
 #### My Expertise
 Over the years, I gained experience in fast-prototyping and full stack development of product in areas such as: 
 - Building the business logic (Full-stack [Nextjs](https://nextjs.org/), [FastAPI](https://fastapi.tiangolo.com/) and [Expo](https://expo.dev/))
@@ -26,8 +19,6 @@ Over the years, I gained experience in fast-prototyping and full stack developme
 - [City Ride](https://github.com/raven-consult/cityride): Find ride-shares from drivers around Lagos
 - [Evently](https://github.com/yungwarlock/closera): A pre-chatgpt makeshift search engine for events around the world
 - [Storefront](https://github.com/yungwarlock/storefront): A toolkit for building Shopify-like websites as a feature in your own products
-
-In the side, I've reading some popular js packages i've grown up with and learning how I can contribute to them.
 
 I'm currently actively looking for a Product Engineer role at an ambitious company.
 
