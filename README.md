@@ -1,16 +1,5 @@
 Hi there! My name is Damian Akpan. I'm a Product Oriented Programmer, currently based in Yaba, Lagos. I like singing and playing Bandminton.
 
-#### My Expertise
-Over the years, I gained experience in fast-prototyping and full stack development of product in areas such as: 
-- Building the business logic (Full-stack [Nextjs](https://nextjs.org/), [FastAPI](https://fastapi.tiangolo.com/) and [Expo](https://expo.dev/))
-- Performance Critical logic ([Golang](http://go.dev/))
-- Telemetry and Analytics ([Sentry](https://sentry.io/welcome/) and [Mixpanel](https://mixpanel.com))
-- Sourcing large datasets ([PySpark](https://spark.apache.org/docs/latest/api/python/index.html) and [Pandas](https://pandas.pydata.org/), [Stagehand](https://docs.stagehand.dev/) and [Playwright](https://playwright.dev))
-- Data warehouse for storing large datasets ([DuckDB](https://duckdb.org/) and [BigQuery](https://cloud.google.com/bigquery))
-- Infrastructure to host ([Fly.io](https://fly.io/) and [Google Cloud](https://cloud.google.com/))
-- Where to store transactional data ([Neon](http://neon.tech/) and [Upstash](https://upstash.com/))
-- Augmenting AI ([Gemini](https://ai.studio/), [Replicate](https://replicate.com/) and [Open Router](https://openrouter.ai/))
-
 #### Works
 - [Frontbase](https://github.com/bettersales-ai/frontbase): A Contact Center platform on WhatsApp for Restaurants and E-commerce businesses. Powered by AI
 - [Audienceflow](https://audienceflow.fly.dev): Find out all the audiences of followers from an Instagram account
