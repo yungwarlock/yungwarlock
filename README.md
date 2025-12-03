@@ -1,6 +1,6 @@
 Hi there! My name is Damian Akpan. I'm a Product Oriented Programmer, currently based in Yaba, Lagos. I like singing and playing Bandminton.
 
-#### Works
+#### Some works
 - [Frontbase](https://github.com/bettersales-ai/frontbase): A Contact Center platform on WhatsApp for Restaurants and E-commerce businesses. Powered by AI
 - [Audienceflow](https://audienceflow.fly.dev): Find out all the audiences of followers from an Instagram account
 - [One Dead](http://one-dead.web.app/): A Strategic guessing game
